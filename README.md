@@ -12,7 +12,7 @@
 
 ## Sobre mí
 
-Me especializo en crear interfaces web modernas con React, pero también me gusta trabajar con APIs, bases de datos y todo lo que implica el desarrollo web.
+Me especializo en el desarrollo de aplicaciones web, con un enfoque principal en el frontend. Disfruto trabajar en la creación de interfaces, así como en la integración con APIs, bases de datos y los distintos componentes que conforman una aplicación web.
 
 ## Experiencia
 
