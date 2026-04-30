@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hola, soy Erick 👋
+# Hola, soy Erick!
 
 ### Desarrolador web
 
-[🌐 Portafolio](https://erickml0.github.io)
+[Portafolio](https://erickml0.github.io)
 
 </div>
 
